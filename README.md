@@ -9,7 +9,7 @@ This is a small C++ program that adds gravity to the mouse cursor on a Windows s
 ## Usage
 
 1. Clone the repository or download the source code file.
-2. Open the source code file (`cursor.cpp`) in a C++ IDE or text editor.
+2. Open the source code file (`gravity.cpp`) in a C++ IDE or text editor.
 3. Compile and run the program using a C++ compiler.
 4. The program will add gravity to the mouse cursor, causing it to fall downwards.
 5. Press `Ctrl+C` to exit the program.
