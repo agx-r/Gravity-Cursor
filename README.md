@@ -17,7 +17,3 @@ This is a small C++ program that adds gravity to the mouse cursor on a Windows s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- This program was inspired by the concept of applying gravity to a mouse cursor.
